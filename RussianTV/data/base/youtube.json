@@ -1,0 +1,36 @@
+{
+    "type": "pages",
+    "headline": "Television",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Perviy kanal Europa",
+            "playerLabel": "Perviy kanal Europa",
+            "image": "https://e7.pngegg.com/pngimages/886/551/png-clipart-television-channel-channel-one-russia-logo-russia-television-blue.png",
+            "action": "video:plugin:https://stream.1tv.ru/embed"
+        },
+        {
+            "title": "Россия 1 смотреть онлайн",
+            "playerLabel": "Россия 1 смотреть онлайн",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/VGTRK_logo_%282012-%29.svg",
+            "action": "video:plugin:https://smotret.tv/1f7ce73f-128a-4e95-b1f0-b7dceb695fb2"
+        },
+        {
+            "title": "PTP ",
+            "playerLabel": "PTP",
+            "image": "https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif",
+            "action": "video:plugin:https://smotret.tv/d6c5a5e3-0e4c-4227-8ef6-f1b2feaa8680"
+        },
+        {
+            "title": "TV Benchmark Tests",
+            "playerLabel": "TV Benchmark Tests",
+            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9A_I_ZqbWkM"
+        }
+    ]
+}
